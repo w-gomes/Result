@@ -1,1 +1,1 @@
-a rough attempt to implement of rust's Result in C++. lol
+a rough attempt to implement rust's Result in C++. lol
